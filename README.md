@@ -8,5 +8,3 @@ I'm pursuing my MS in Computer at DePaul after 11 years in the coffee industry. 
   - [Back-end Gitub](https://github.com/adam-lev-barnett/MadlibMachine-web)
   - [Front-end Github](https://github.com/adam-lev-barnett/madlib-frontend)
 - [TextQuest](https://github.com/adam-lev-barnett/CSC403-TextQuest): A spooky mini text adventure game
-- [Music Review API](https://github.com/adam-lev-barnett/music-review-api): In-progress, RESTful API for community-based album reviews
-
