@@ -8,4 +8,4 @@ MS student in Computer Science at DePaul transitioning from 11 years in the coff
   - [Back-end Gitub](https://github.com/adam-lev-barnett/MadlibMachine-web)
   - [Front-end Github](https://github.com/adam-lev-barnett/madlib-frontend)
 - [TextQuest](https://github.com/adam-lev-barnett/CSC403-TextQuest): A text adventure and puzzle game with natural language command parsing, in which you find yourself inside a haunted carnival performing tasks for a ghostly duck mascot
-- [Chicago-GO]([https://github.com/adam-lev-barnett/CTA_Scavenger_Hunt](https://github.com/adam-lev-barnett/CTA_Scavenger_Hunt/tree/adam-barnett)): Hackathon project extension combining location-based gameplay with real-time data (in-progress)
+- [Chicago-GO](https://github.com/adam-lev-barnett/CTA_Scavenger_Hunt/tree/adam-barnett): Hackathon project extension combining location-based gameplay with real-time data (in-progress)
