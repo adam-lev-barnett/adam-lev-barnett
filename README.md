@@ -1,6 +1,6 @@
 ## Hello! I'm Adam.
 
-MS student in Computer Science at DePaul transitioning from 11 years in the coffee industry. I'm a nerd for OOP and full-stack development with expertise in Java, TypeScript, and web technologies like Spring and React. When I'm not studying and coding, you'll find me climbing, biking around Chicago, or belting out emo classics at karaoke.
+I'm an MS student in Computer Science at DePaul focusing on application development across all platforms. I'm a nerd for OOP and full-stack development with a strong affinity for building Java backends with Spring. When I'm not studying and coding, you'll find me climbing, biking around Chicago, or belting out emo classics at karaoke.
 <br>
 <br>
 **Here are a few releases and in-progress apps:**
