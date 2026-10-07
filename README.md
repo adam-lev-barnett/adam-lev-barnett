@@ -4,7 +4,7 @@ I'm an MS student in Computer Science at DePaul focusing on application developm
 <br>
 <br>
 **Here are a few releases and in-progress apps:**
-- [Madlib Machine](https://madlib-frontend-deploy.vercel.app/): Full-stack web app that transforms user text into interactive madlibs using NLP-driven algorithms for part of speech tagging and word replacement (TypeScript/CSS frontend, Java/Spring backend)
+- [Madlib Machine](https://madlib-machine.app/): Full-stack web app that transforms user text into interactive madlibs using NLP-driven algorithms for part of speech tagging and word replacement (TypeScript/CSS frontend, Java/Spring backend)
   - [Back-end Gitub](https://github.com/adam-lev-barnett/MadlibMachine-web)
   - [Front-end Github](https://github.com/adam-lev-barnett/madlib-frontend)
 - [TextQuest](https://github.com/adam-lev-barnett/CSC403-TextQuest): A text adventure and puzzle game with natural language command parsing, in which you find yourself inside a haunted carnival performing tasks for a ghostly duck mascot
