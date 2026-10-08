@@ -4,6 +4,7 @@ I'm an MS student in Computer Science at DePaul focusing on application developm
 <br>
 <br>
 **Here are a few releases and in-progress apps:**
+- [Gearwood Puzzle Store](https://github.com/adam-lev-barnett/gearwood_puzzle_store): E-commerce web application/REST API with jwt auth (Java, Spring, ThymeLeaf)
 - [Madlib Machine](https://madlib-machine.app/): Full-stack web app that transforms user text into interactive madlibs using NLP-driven algorithms for part of speech tagging and word replacement (TypeScript/CSS frontend, Java/Spring backend)
   - [Back-end Gitub](https://github.com/adam-lev-barnett/MadlibMachine-web)
   - [Front-end Github](https://github.com/adam-lev-barnett/madlib-frontend)
