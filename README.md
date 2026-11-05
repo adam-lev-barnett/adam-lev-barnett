@@ -1,6 +1,6 @@
 ## Hello! I'm Adam.
 
-I'm an MS student in Computer Science at DePaul focusing on application development across all platforms. I'm a nerd for OOP and full-stack development with a strong affinity for building Java backends with Spring. When I'm not studying and coding, you'll find me climbing, biking around Chicago, or belting out emo classics at karaoke.
+I'm pursuing my MS in Computer Science at DePaul focusing on full-stack application development, with a preference for backends and OOP. Java, Spring, and React are my go-tos. But I love learning new skills and stacks! When I'm not studying and coding, you'll find me climbing, biking around Chicago, or belting out emo classics at karaoke.
 <br>
 <br>
 **Here are a few releases and in-progress apps:**
